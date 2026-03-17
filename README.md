@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amandava@ucdavis.edu and anish_mandava on Linkedin
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an NBA enthusiast. 
 
 <!---
 anish-mandava/anish-mandava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
