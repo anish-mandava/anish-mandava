@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anish-mandava
-- 👀 I’m interested in data science, visualization, economics
-- 🌱 I’m currently learning data science and economics at UC Davis
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML and Econometrics
+- 🌱 I’m currently learning statistics and economics at UC Davis
 - 📫 How to reach me amandava@ucdavis.edu and anish_mandava on Linkedin
 - 😄 Pronouns: He/Him
 
